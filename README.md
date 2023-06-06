@@ -8,6 +8,7 @@ The project uses the information of bitcoin history data to complete the data fo
 - numpy
 - sklearn
 - itertools
+- statsmodels
 
 # Reference
 https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
